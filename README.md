@@ -28,7 +28,9 @@ update feed for the application's built-in updater.
 - **Auto-updates** — the app checks this repository's releases; every downloaded installer is verified via SHA-256 before it runs
 - **30-day fully functional free trial**, then a perpetual one-time license (Standard €129 / Pro €189) via Polar.sh — no subscription, no monthly costs
 
-See screenshots and the full feature breakdown at **[upsmonitor.de](https://upsmonitor.de)**.
+<p align="center"><img src="img/dashboard.png" alt="Dashboard — live UPS status, multi-UPS cards and monitor controls" width="700"></p>
+
+See more screenshots and the full feature breakdown at **[upsmonitor.de](https://upsmonitor.de)**.
 
 ## System requirements
 
