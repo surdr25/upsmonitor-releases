@@ -39,9 +39,9 @@ One-time purchase (perpetual license), no subscription. Current prices and the f
 
 | Edition | Price | Adds |
 | --- | --- | --- |
-| Standard | €139 | SNMP/NUT monitoring, unlimited Hyper-V hosts and VMs, physical servers, e-mail and SNMP trap alerts, Windows Service, auto-updater |
-| Pro | €199 | Multiple UPS units, UPS redundancy, live migration, Teams/SMS/webhook alerts, reports, tamper protection |
-| Enterprise | €349 | Remote web interface for Server Core, users and audit log, monitoring integration, monitoring-only mode, warning thresholds, UPS self-test |
+| Standard | €199 | SNMP/NUT monitoring, unlimited Hyper-V hosts and VMs, physical servers, e-mail and SNMP trap alerts, Windows Service, auto-updater |
+| Pro | €299 | Multiple UPS units, UPS redundancy, live migration, Teams/SMS/webhook alerts, reports, tamper protection |
+| Enterprise | €499 | Remote web interface for Server Core, users and audit log, monitoring integration, monitoring-only mode, warning thresholds, UPS self-test |
 
 Every edition starts with a **30-day free trial** of all features — no registration, no credit card. Licenses are sold to businesses only; checkout and invoicing are handled by Polar (Merchant of Record).
 
@@ -89,7 +89,7 @@ The built-in updater reads `version.json` from the latest release of this reposi
 
 ## Kurz auf Deutsch
 
-Der **USV Hyper-V Shutdown Monitor** überwacht USVs per SNMP v1/v2c/v3 oder NUT und fährt bei Stromausfall Hyper-V Hosts samt allen virtuellen Maschinen geordnet herunter, bevor der Akku leer ist. Er läuft als Windows-Dienst, braucht keine Agenten auf den Hosts und speichert alle Daten ausschließlich lokal. Einmallizenz ohne Abo (Standard 139 €, Pro 199 €, Enterprise 349 €), 30 Tage kostenlos testen. Mehr auf **[upsmonitor.de](https://upsmonitor.de/)** — [Einrichtungsanleitung](https://upsmonitor.de/einrichtung.html) · [Ratgeber](https://upsmonitor.de/ratgeber.html)
+Der **USV Hyper-V Shutdown Monitor** überwacht USVs per SNMP v1/v2c/v3 oder NUT und fährt bei Stromausfall Hyper-V Hosts samt allen virtuellen Maschinen geordnet herunter, bevor der Akku leer ist. Er läuft als Windows-Dienst, braucht keine Agenten auf den Hosts und speichert alle Daten ausschließlich lokal. Einmallizenz ohne Abo (Standard 199 €, Pro 299 €, Enterprise 499 €), 30 Tage kostenlos testen. Mehr auf **[upsmonitor.de](https://upsmonitor.de/)** — [Einrichtungsanleitung](https://upsmonitor.de/einrichtung.html) · [Ratgeber](https://upsmonitor.de/ratgeber.html)
 
 ---
 
